@@ -1,0 +1,12 @@
+SaaS Business Analytics - KPI Summary
+=========================================
+MRR (Monthly Recurring Revenue): $1,990,023.59
+ARR (Annual Recurring Revenue): $23,880,283.07
+ARPU (Average Revenue Per User): $77.93
+CLTV (actual data): $1,467.62
+Churn Rate: 27.04%
+Retention Rate: 72.96%
+Avg subscription length (churned): 11.3 months
+Avg tenure so far (active): 24.4 months
+Upgrade rate: 32.54%
+Downgrade rate: 14.02%
